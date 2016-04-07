@@ -1,0 +1,6 @@
+# SoloBundle
+
+Bundle contains "AutoPlay" - scripts for every champion...
+
+Changelog in changelog readme
+
