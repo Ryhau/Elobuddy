@@ -1,0 +1,12 @@
+C:\Users\anton\Documents\Visual Studio 2015\Projects\SoloZed\SoloZed\bin\Debug\SoloZed.exe.config
+C:\Users\anton\Documents\Visual Studio 2015\Projects\SoloZed\SoloZed\bin\Debug\SoloZed.exe
+C:\Users\anton\Documents\Visual Studio 2015\Projects\SoloZed\SoloZed\bin\Debug\SoloZed.pdb
+C:\Users\anton\Documents\Visual Studio 2015\Projects\SoloZed\SoloZed\bin\Debug\EloBuddy.dll
+C:\Users\anton\Documents\Visual Studio 2015\Projects\SoloZed\SoloZed\bin\Debug\EloBuddy.SDK.dll
+C:\Users\anton\Documents\Visual Studio 2015\Projects\SoloZed\SoloZed\bin\Debug\SharpDX.dll
+C:\Users\anton\Documents\Visual Studio 2015\Projects\SoloZed\SoloZed\bin\Debug\SharpDX.Direct3D9.dll
+C:\Users\anton\Documents\Visual Studio 2015\Projects\SoloZed\SoloZed\bin\Debug\Newtonsoft.Json.dll
+C:\Users\anton\Documents\Visual Studio 2015\Projects\SoloZed\SoloZed\bin\Debug\EloBuddy.Sandbox.dll
+C:\Users\anton\Documents\Visual Studio 2015\Projects\SoloZed\SoloZed\obj\Debug\SoloZed.csprojResolveAssemblyReference.cache
+C:\Users\anton\Documents\Visual Studio 2015\Projects\SoloZed\SoloZed\obj\Debug\SoloZed.exe
+C:\Users\anton\Documents\Visual Studio 2015\Projects\SoloZed\SoloZed\obj\Debug\SoloZed.pdb
