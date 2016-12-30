@@ -1,5 +1,7 @@
+#JUST SOME AMATEUR THINGS 
+
 # Elobuddy
-AddOns for Elobuddy by Ryhau
+AddOns for Elobuddy by twisteddebian
 
 # SoloBundle [WIP]
 This will contain scripts for all Champions.
